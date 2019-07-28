@@ -645,8 +645,8 @@ a {
 }
 #scheme-Paradox .material-layout .something-else .something-else-logo img {
     margin-bottom: 10px;
-    width: 15pc;
-    height: 15pc
+    width: 100%;
+    height: 100%
 }
 #scheme-Paradox .material-layout .something-else .mdl-card__supporting-text {
     border-bottom-right-radius: 2px;
